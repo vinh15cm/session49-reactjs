@@ -1,0 +1,11 @@
+* {
+    margin: 20px;
+}
+
+.active {
+    color: red;
+}
+
+NavLink {
+    text-decoration: none;
+}
